@@ -1,0 +1,231 @@
+{
+  "project": "ESMT Ranking Intelligence Radar",
+  "release": "0.1.0-prototype",
+  "as_of_date": "2026-08-18",
+  "records": {
+    "sources": 23,
+    "signals": 18,
+    "qs_esmt_rows": 5,
+    "qs_peer_rows": 20
+  },
+  "verification": {
+    "unit_and_smoke_tests": 10,
+    "notebook_code_cells_executed": 9,
+    "workbook_sheets": 6,
+    "workbook_score_checks": 18,
+    "workbook_charts": 3,
+    "workbook_formula_errors": 0
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 77,
+      "sha256": "d8faa818177e4c6e7d7fabd99d116ebbfee72c4e50177a8e79649f7a663909db"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4434,
+      "sha256": "b6edb5dc39f2251a6d9eee7c71fdf61a73b788271f4c0249dcccd8c782c773d0"
+    },
+    {
+      "path": "app.py",
+      "bytes": 9679,
+      "sha256": "47300142bc59a226e6125f15b3064cfc6cef4cb2f8c4c05ac1a0892086575009"
+    },
+    {
+      "path": "config/scoring.json",
+      "bytes": 546,
+      "sha256": "fae83a585699ab3a29d435ab57ba50e48db423dba44bec8792150aa7230889f2"
+    },
+    {
+      "path": "data/processed/signals_enriched.json",
+      "bytes": 45847,
+      "sha256": "29d87a8d367cbc3fef8115003af183e84ff06d6737698d026e9b0169662c92b2"
+    },
+    {
+      "path": "data/processed/signals_summary.csv",
+      "bytes": 5336,
+      "sha256": "908287e368b7538f6f167f933bd532f39bffe07edd8b25c11c652e8cd8e72513"
+    },
+    {
+      "path": "data/raw/qs_esmt_trends.csv",
+      "bytes": 693,
+      "sha256": "d650ebd1d07c17f37a0a79e9eea4385fa5ca25129a88793ea3f4ed416bad240e"
+    },
+    {
+      "path": "data/raw/qs_german_peer_ranks.csv",
+      "bytes": 2063,
+      "sha256": "5f42fa2bdf7625b964325f372cf91ff89cd837422f853e881a4647229968595c"
+    },
+    {
+      "path": "data/raw/signals.json",
+      "bytes": 27440,
+      "sha256": "eb36888470a84857b90a300f000d80fef683f0cf61e20ac84b41aaea26329f25"
+    },
+    {
+      "path": "data/raw/sources.json",
+      "bytes": 12636,
+      "sha256": "abbef049fc602166e1c501673fc81e50e7afb6f5ba3ccfa767bf343ccb97540c"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 5107,
+      "sha256": "8eede2d5aaa4767dcfbf4b91dacf2bc96d7c77b80214369cfa0cdf9c44d5d4e2"
+    },
+    {
+      "path": "docs/DEMO_SCRIPT_RU.md",
+      "bytes": 4428,
+      "sha256": "3b95d4fb63679adb10c5eb8759ecf26856865f378f4a82528ded41944be8a5a3"
+    },
+    {
+      "path": "docs/LOVABLE_BUILD_SPEC.md",
+      "bytes": 7257,
+      "sha256": "abea8cd41be4bb92fe4ef5889ac63a7fdd4b00fb9d7bd04037ba20afddea4cd6"
+    },
+    {
+      "path": "docs/PROCESS_LOG_RU.md",
+      "bytes": 8055,
+      "sha256": "95af3431d24ff49bf98891e739f092c236570011d50c65d316fc2a1df07f1752"
+    },
+    {
+      "path": "docs/PROJECT_WALKTHROUGH.md",
+      "bytes": 9009,
+      "sha256": "6023f33328a4bc68e38f10a77fbb9d0e16308061f9bac780b9f449c576bc4a50"
+    },
+    {
+      "path": "inputs/README.md",
+      "bytes": 989,
+      "sha256": "a7170c38ddc7d2137a0bd47a63717488499f7fa8d1422ed0465ff66bcc485c99"
+    },
+    {
+      "path": "notebooks/ESMT_Ranking_Intelligence_Radar.ipynb",
+      "bytes": 8021,
+      "sha256": "7eedd98a8a9f426a2b3c81f3324f8aa19d952251e3e2edc1a5f9c6a9867c1da6"
+    },
+    {
+      "path": "outputs/esmt_radar/ESMT_Ranking_Intelligence_Radar_Audit.xlsx",
+      "bytes": 34185,
+      "sha256": "25353efa75900361b6d780df519ab6f92160213c0028c1be876c55174e67ef25"
+    },
+    {
+      "path": "outputs/esmt_radar/previews/communication_qa.png",
+      "bytes": 116333,
+      "sha256": "2715b5d465660f85c4d624d649d00786a7aa42d1d710edde17b300be01c7fd63"
+    },
+    {
+      "path": "outputs/esmt_radar/previews/dashboard.png",
+      "bytes": 222531,
+      "sha256": "f4c903d335ed6086579efd026527e105a139a4a9f5059c3b9516c3d82c144a90"
+    },
+    {
+      "path": "outputs/esmt_radar/previews/qs_trends.png",
+      "bytes": 252102,
+      "sha256": "347c553b43a142ed2e33de485f038e8de511d62e624d59b6ee67cf28861dc78f"
+    },
+    {
+      "path": "outputs/esmt_radar/previews/scoring_rules.png",
+      "bytes": 83085,
+      "sha256": "97e1391b71cd299528a3eab22059c77669bb11e20ed570164e225e65b5f796b1"
+    },
+    {
+      "path": "outputs/esmt_radar/previews/signals.png",
+      "bytes": 1011965,
+      "sha256": "d173dc8d839c37627f959cd7acf81b353bace86f2bdb01ea6ea2cb605ef63ba7"
+    },
+    {
+      "path": "outputs/esmt_radar/previews/sources.png",
+      "bytes": 514123,
+      "sha256": "3d9bd580dfa78b6e942769ff37c31c3a1b3f65afddaccbc3f6ab35ee82b19286"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 79,
+      "sha256": "984c8954b09b023cb343f5a25cede622097f9ad11f51f8401d4919171f65c93a"
+    },
+    {
+      "path": "scripts/build_audit_workbook.mjs",
+      "bytes": 24707,
+      "sha256": "63fd0b0c8c443e50736ca77eb67a0e27a64aaffd137ea262524536b1ea9b5182"
+    },
+    {
+      "path": "scripts/build_outputs.py",
+      "bytes": 4911,
+      "sha256": "7efcf1657a3ed71156c439fea491c705006f0c40897a4b0a674aa3de7f62ece1"
+    },
+    {
+      "path": "scripts/extract_qs_inputs.py",
+      "bytes": 6597,
+      "sha256": "3caf904c82c7415ccced96b9daa78e78686f4cbc43d16b53f1c4b1b322fb882d"
+    },
+    {
+      "path": "scripts/generate_supabase_seed.py",
+      "bytes": 6862,
+      "sha256": "e78e4dc70ae1aeb509f116aa5263f2f39a28204029df7ea0458362cb7be6a404"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "bytes": 2618,
+      "sha256": "42fd7ec80186be63db8a37a4b1485ccb49307e30dfa3f4d68ab5c2c613b0fb66"
+    },
+    {
+      "path": "scripts/verify_audit_workbook.mjs",
+      "bytes": 2245,
+      "sha256": "00b307d5a7af3fe2660c4d0cfe66776f1495b0d96836c1ccb0460f21abe5659e"
+    },
+    {
+      "path": "scripts/verify_notebook.py",
+      "bytes": 954,
+      "sha256": "1729ed56925ad39eb1e07086fc9efbdbe7fff4b357e77a7c26b5ab02d5fbcbc9"
+    },
+    {
+      "path": "sql/seed_generated.sql",
+      "bytes": 79645,
+      "sha256": "212a2321eb3dbc075f31f213053d327527e0469e3ee382a63646e04759912481"
+    },
+    {
+      "path": "sql/supabase_schema.sql",
+      "bytes": 11469,
+      "sha256": "05fb471dfcab5291d4276ee61897f0a515d27bb88915e5725f1ea78679269cc5"
+    },
+    {
+      "path": "src/__init__.py",
+      "bytes": 71,
+      "sha256": "e9869dcf542c80de0442c598078375d370aaa24a60b42c021daf8f8dda83969f"
+    },
+    {
+      "path": "src/classifier.py",
+      "bytes": 2279,
+      "sha256": "125910cc8ec8c6e16eee6a82864f6e517afb4c3f064540d78ec8424943e19bbb"
+    },
+    {
+      "path": "src/collector.py",
+      "bytes": 3521,
+      "sha256": "5087f1f0673bd6764b042953a01de83c186044e5c3314f17b6bccf4b56cc057e"
+    },
+    {
+      "path": "src/scoring.py",
+      "bytes": 2077,
+      "sha256": "a11e8603ac88de00246e7c59be46ed803f59b112f1e595f42282eef0a3572d93"
+    },
+    {
+      "path": "tests/test_app_smoke.py",
+      "bytes": 2130,
+      "sha256": "d516ae952e7d1e0dcb4101b62b173e71d46a3d557a11adbcf0f093a632f73410"
+    },
+    {
+      "path": "tests/test_collection_and_classification.py",
+      "bytes": 1314,
+      "sha256": "3c626cb903802572aa402a2e217ce0529bc0d1eb6d1a30e814fe36c09d0e89b2"
+    },
+    {
+      "path": "tests/test_data_contract.py",
+      "bytes": 1562,
+      "sha256": "6ab128896d3fba1047eabd2d25295cf225f93799820c13e78dcad040db12173a"
+    },
+    {
+      "path": "tests/test_scoring.py",
+      "bytes": 1325,
+      "sha256": "4150a34dc8a71a4d48e3a559c0d3cb998ca1571b8bab85e59e40a900cd3117a9"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "scale_min": 0,
+  "scale_max": 5,
+  "weights": {
+    "strategic_impact": 30,
+    "urgency": 25,
+    "actionability": 20,
+    "esmt_relevance": 15,
+    "evidence_confidence": 10
+  },
+  "bands": [
+    {"label": "Act now", "minimum": 75},
+    {"label": "Plan", "minimum": 55},
+    {"label": "Monitor", "minimum": 35},
+    {"label": "Archive", "minimum": 0}
+  ],
+  "governance_note": "Weights and bands are prototype management assumptions. A production owner should approve, version, and periodically back-test them against actual decisions."
+}

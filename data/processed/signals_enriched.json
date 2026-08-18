@@ -1,0 +1,1107 @@
+[
+  {
+    "signal_id": "sig_aacsb_2026_standards",
+    "title": "AACSB ratified new 2026 Global Standards",
+    "signal_type": "accreditation_standard",
+    "programmes": [
+      "Institution-wide"
+    ],
+    "ranking_or_standard": "AACSB 2026 Global Standards",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-04-20",
+    "event_date_end": "2026-04-20",
+    "date_precision": "exact",
+    "official_date_text": "20 April 2026",
+    "factual_summary": "AACSB announced ratification of its 2026 Global Standards and describes the framework as principles- and outcomes-focused.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_aacsb_ratification_2026",
+      "src_aacsb_standards"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "This is institution-wide accreditation governance, not a ranking-news item. The practical exposure depends on transition rules and ESMT's review cycle, which are not established in this public seed signal.",
+    "recommended_action": "Run a controlled gap assessment against the final standards and transition guidance; map each requirement to an evidence owner and existing assurance process.",
+    "proposed_owner": "Accreditation Lead + Ranking Manager",
+    "proposed_due_date": "2026-09-30",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 5,
+      "urgency": 4,
+      "actionability": 5,
+      "esmt_relevance": 5,
+      "evidence_confidence": 5
+    },
+    "priority_score": 95.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 30.0,
+      "urgency": 20.0,
+      "actionability": 20.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -120,
+    "days_to_window_end_as_of_2026_08_18": -120,
+    "sources": [
+      {
+        "source_id": "src_aacsb_ratification_2026",
+        "name": "AACSB Announces Ratification of 2026 Global Standards",
+        "url": "https://www.aacsb.edu/media-center/news/2026/04/global-standards-ratification",
+        "evidence_type": "official_announcement",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_aacsb_standards",
+        "name": "AACSB Global Standards",
+        "url": "https://www.aacsb.edu/educators/global-standards",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft50_2026_change",
+    "title": "FT revised the FT50 journal list used in research metrics",
+    "signal_type": "methodology_change",
+    "programmes": [
+      "Full-time MBA",
+      "Executive MBA",
+      "Part-time Blended MBA",
+      "Institution-wide research"
+    ],
+    "ranking_or_standard": "Financial Times research rank / FT50",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-04-29",
+    "event_date_end": "2026-04-29",
+    "date_precision": "exact",
+    "official_date_text": "29 April 2026",
+    "factual_summary": "FT added Academy of Management Annals, American Sociological Review, and Psychological Science to the FT50, and removed Human Relations, Journal of Business Ethics, and Organization Studies. FT says the revised list is used for research measures in its Global MBA, EMBA, and Online MBA rankings.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_ft50_2026",
+      "src_ft_methodology"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "Historical and forecast research counts may change even without a change in faculty output. This can affect cross-year comparability and scenario models.",
+    "recommended_action": "Remap ESMT publications and peer benchmarks to the revised list, quantify the delta, and version the journal-list logic used in forecasts.",
+    "proposed_owner": "Ranking Manager + Research Office",
+    "proposed_due_date": "2026-09-15",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 5,
+      "urgency": 4,
+      "actionability": 5,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 92.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 30.0,
+      "urgency": 20.0,
+      "actionability": 20.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -111,
+    "days_to_window_end_as_of_2026_08_18": -111,
+    "sources": [
+      {
+        "source_id": "src_ft50_2026",
+        "name": "Financial Times FT50 Journal List Update",
+        "url": "https://www.ft.com/content/db863a0a-6524-45f9-bc52-fee997634bdc",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_ft_methodology",
+        "name": "Financial Times Rankings Methodology Hub",
+        "url": "https://rankings.ft.com/methodology",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_esmt_emba_year_mismatch",
+    "title": "ESMT's central page labels the FT Executive MBA rank 42 with the wrong cycle",
+    "signal_type": "communication_mismatch",
+    "programmes": [
+      "Executive MBA"
+    ],
+    "ranking_or_standard": "Financial Times Executive MBA",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-08-18",
+    "event_date_end": "2026-08-18",
+    "date_precision": "observation_date",
+    "official_date_text": "Observed on 18 August 2026",
+    "factual_summary": "ESMT's central accreditation-and-rankings page labels Executive MBA rank 42 as 2026, while the FT result page identifies rank 42 as the 2025 Executive MBA result published in October 2025.",
+    "verification_status": "verified_cross_page_mismatch",
+    "source_ids": [
+      "src_esmt_accreditation_rankings",
+      "src_ft_emba_2025"
+    ],
+    "independent_confirmation_count": 2,
+    "esmt_interpretation": "The page presents a future-cycle label for an existing result. The defect is easy to correct and should be resolved before the planned October 2026 release.",
+    "recommended_action": "Correct the cycle to 2025, verify all displayed ranking years against publisher result pages, and add a two-person approval check for future updates.",
+    "proposed_owner": "Communications + Ranking Manager",
+    "proposed_due_date": "2026-08-21",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 3,
+      "urgency": 4,
+      "actionability": 5,
+      "esmt_relevance": 5,
+      "evidence_confidence": 5
+    },
+    "priority_score": 83.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 18.0,
+      "urgency": 20.0,
+      "actionability": 20.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 0,
+    "days_to_window_end_as_of_2026_08_18": 0,
+    "sources": [
+      {
+        "source_id": "src_esmt_accreditation_rankings",
+        "name": "ESMT Accreditation and Rankings",
+        "url": "https://esmt.berlin/about/accreditation-and-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_ft_emba_2025",
+        "name": "Financial Times EMBA 2025 Results",
+        "url": "https://rankings.ft.com/rankings/3005/emba-2025",
+        "evidence_type": "primary_result",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_esmt_mba_year_mismatch",
+    "title": "ESMT pages attach different years to the same Full-time MBA rank",
+    "signal_type": "communication_mismatch",
+    "programmes": [
+      "Full-time MBA"
+    ],
+    "ranking_or_standard": "Financial Times MBA",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-08-18",
+    "event_date_end": "2026-08-18",
+    "date_precision": "observation_date",
+    "official_date_text": "Observed on 18 August 2026",
+    "factual_summary": "ESMT's degree-ranking page labels Full-time MBA rank 79 as 2026, consistent with the FT MBA 2026 result page. ESMT's central accreditation-and-rankings page labels rank 79 as 2025, while the FT 2025 rank shown on the degree page is 80.",
+    "verification_status": "verified_cross_page_mismatch",
+    "source_ids": [
+      "src_esmt_degree_rankings",
+      "src_esmt_accreditation_rankings",
+      "src_ft_mba_2026"
+    ],
+    "independent_confirmation_count": 2,
+    "esmt_interpretation": "This is a controllable website QA defect. It can weaken trust in external claims and complicate future update cycles.",
+    "recommended_action": "Correct the year label on the central page and add a single structured ranking-claims register that feeds all public pages.",
+    "proposed_owner": "Communications + Ranking Manager",
+    "proposed_due_date": "2026-08-21",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 3,
+      "urgency": 4,
+      "actionability": 5,
+      "esmt_relevance": 5,
+      "evidence_confidence": 5
+    },
+    "priority_score": 83.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 18.0,
+      "urgency": 20.0,
+      "actionability": 20.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 0,
+    "days_to_window_end_as_of_2026_08_18": 0,
+    "sources": [
+      {
+        "source_id": "src_esmt_degree_rankings",
+        "name": "ESMT Degree Rankings",
+        "url": "https://esmt.berlin/degrees/degree-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_esmt_accreditation_rankings",
+        "name": "ESMT Accreditation and Rankings",
+        "url": "https://esmt.berlin/about/accreditation-and-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_ft_mba_2026",
+        "name": "Financial Times MBA 2026 Results",
+        "url": "https://rankings.ft.com/rankings/3006/mba-2026",
+        "evidence_type": "primary_result",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_qs_mba_2027_publication",
+    "title": "QS plans the next Global MBA publication for September 2026",
+    "signal_type": "publication_window",
+    "programmes": [
+      "Full-time MBA"
+    ],
+    "ranking_or_standard": "QS Global MBA Rankings 2027",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-09-01",
+    "event_date_end": "2026-09-30",
+    "date_precision": "month",
+    "official_date_text": "September 2026",
+    "factual_summary": "QS lists September 2026 as the publication month for its Global MBA and Business Masters rankings in the 2027 cycle.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_qs_cycle_2027"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "ESMT needs a result-validation and communications plan, but the source does not provide an exact publication day.",
+    "recommended_action": "Create a September watch window and draft best/base/worst-case messaging. Do not advertise an exact date until QS confirms it.",
+    "proposed_owner": "Ranking Manager + MBA Team + Communications",
+    "proposed_due_date": "2026-08-31",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 4,
+      "actionability": 4,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 82.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 20.0,
+      "actionability": 16.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 14,
+    "days_to_window_end_as_of_2026_08_18": 43,
+    "sources": [
+      {
+        "source_id": "src_qs_cycle_2027",
+        "name": "QS Graduate Management Education Rankings Cycle 2027",
+        "url": "https://support.qs.com/hc/en-gb/articles/6742129778588-QS-Graduate-Management-Education-GME-Rankings-Cycle-2027",
+        "evidence_type": "official_schedule_and_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_qs_mim_2027_publication",
+    "title": "QS plans the next Business Masters publication for September 2026",
+    "signal_type": "publication_window",
+    "programmes": [
+      "Master in Global Management"
+    ],
+    "ranking_or_standard": "QS Business Master's Rankings 2027: Management",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-09-01",
+    "event_date_end": "2026-09-30",
+    "date_precision": "month",
+    "official_date_text": "September 2026",
+    "factual_summary": "QS lists September 2026 as the publication month for its Global MBA and Business Masters rankings in the 2027 cycle.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_qs_cycle_2027"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "The 2026 Management result showed a large rank movement with a small overall-score change, so publication-day analysis should separate score movement from cohort compression.",
+    "recommended_action": "Prepare score-distribution and German-peer comparisons before the release; use a month window until QS provides an exact day.",
+    "proposed_owner": "Ranking Manager + Masters Team + Communications",
+    "proposed_due_date": "2026-08-31",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 4,
+      "actionability": 4,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 82.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 20.0,
+      "actionability": 16.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 14,
+    "days_to_window_end_as_of_2026_08_18": 43,
+    "sources": [
+      {
+        "source_id": "src_qs_cycle_2027",
+        "name": "QS Graduate Management Education Rankings Cycle 2027",
+        "url": "https://support.qs.com/hc/en-gb/articles/6742129778588-QS-Graduate-Management-Education-GME-Rankings-Cycle-2027",
+        "evidence_type": "official_schedule_and_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_qs_emba_2027_collection",
+    "title": "QS Executive MBA 2027 data collection is expected from October to mid-January",
+    "signal_type": "submission_window",
+    "programmes": [
+      "Executive MBA"
+    ],
+    "ranking_or_standard": "QS Executive MBA Rankings 2027",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-10-01",
+    "event_date_end": "2027-01-15",
+    "date_precision": "approximate_window",
+    "official_date_text": "October 2026 to mid-January 2027",
+    "date_assumption": "1 October and 15 January are sorting boundaries only; QS supplies month and mid-month wording, not exact dates.",
+    "factual_summary": "QS states that institution data collection for the 2027 Executive MBA ranking will run from October 2026 to mid-January 2027 and that extensions will not be granted.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_qs_cycle_2027",
+      "src_qs_movein"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "The public schedule enables readiness work but does not replace the exact dates, validation rules, and field definitions in MoveIN.",
+    "recommended_action": "Create the internal data-owner matrix and evidence pack before October; record exact portal dates when the authorised account sees them.",
+    "proposed_owner": "Ranking Manager + Executive MBA Team",
+    "proposed_due_date": "2026-09-15",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 3,
+      "actionability": 5,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 81.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 15.0,
+      "actionability": 20.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 44,
+    "days_to_window_end_as_of_2026_08_18": 150,
+    "sources": [
+      {
+        "source_id": "src_qs_cycle_2027",
+        "name": "QS Graduate Management Education Rankings Cycle 2027",
+        "url": "https://support.qs.com/hc/en-gb/articles/6742129778588-QS-Graduate-Management-Education-GME-Rankings-Cycle-2027",
+        "evidence_type": "official_schedule_and_rule",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_qs_movein",
+        "name": "QS MoveIN and Direct Communications",
+        "url": null,
+        "evidence_type": "private_operational_source",
+        "access_mode": "manual_private"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_qs_online_mba_2027_collection",
+    "title": "QS Online MBA 2027 data collection is expected from October to mid-January",
+    "signal_type": "submission_window",
+    "programmes": [
+      "Part-time Blended MBA"
+    ],
+    "ranking_or_standard": "QS Online MBA Rankings 2027",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-10-01",
+    "event_date_end": "2027-01-15",
+    "date_precision": "approximate_window",
+    "official_date_text": "October 2026 to mid-January 2027",
+    "date_assumption": "1 October and 15 January are sorting boundaries only; QS supplies month and mid-month wording, not exact dates.",
+    "factual_summary": "QS states that institution data collection for the 2027 Online MBA ranking will run from October 2026 to mid-January 2027 and that extensions will not be granted.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_qs_cycle_2027",
+      "src_qs_movein"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "The public schedule is sufficient for readiness planning, but the operative deadline and questionnaire must be verified in MoveIN.",
+    "recommended_action": "Open an internal evidence checklist now, assign field owners, and require the authorised portal owner to record the exact opening and closing dates when available.",
+    "proposed_owner": "Ranking Manager + Part-time MBA Team",
+    "proposed_due_date": "2026-09-15",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 3,
+      "actionability": 5,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 81.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 15.0,
+      "actionability": 20.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 44,
+    "days_to_window_end_as_of_2026_08_18": 150,
+    "sources": [
+      {
+        "source_id": "src_qs_cycle_2027",
+        "name": "QS Graduate Management Education Rankings Cycle 2027",
+        "url": "https://support.qs.com/hc/en-gb/articles/6742129778588-QS-Graduate-Management-Education-GME-Rankings-Cycle-2027",
+        "evidence_type": "official_schedule_and_rule",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_qs_movein",
+        "name": "QS MoveIN and Direct Communications",
+        "url": null,
+        "evidence_type": "private_operational_source",
+        "access_mode": "manual_private"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_equis_2026_microcredentials",
+    "title": "EQUIS 2026 criteria explicitly include micro-credentials and stackable modules",
+    "signal_type": "accreditation_standard",
+    "programmes": [
+      "Executive Education",
+      "Degree programmes",
+      "Institution-wide"
+    ],
+    "ranking_or_standard": "EQUIS Standards and Criteria 2026",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-01-01",
+    "event_date_end": "2026-12-31",
+    "date_precision": "year",
+    "official_date_text": "2026 edition",
+    "factual_summary": "The 2026 EQUIS criteria explicitly refer to micro-credentials and stackable modules in the internationalisation context; the term is absent from the 2025 criteria PDF checked for this prototype.",
+    "verification_status": "verified_document_comparison",
+    "source_ids": [
+      "src_equis_2026_pdf",
+      "src_equis_2025_pdf",
+      "src_equis_docs"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "ESMT should ensure that short-format and stackable learning offers are represented consistently in programme inventories, internationalisation evidence, quality assurance, and partner reporting.",
+    "recommended_action": "Document the relevant portfolio, governance, international reach, learning assurance, and evidence links; ask the accreditation owner whether this changes the next self-assessment narrative.",
+    "proposed_owner": "Accreditation Lead + Executive Education",
+    "proposed_due_date": "2026-10-15",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 3,
+      "actionability": 4,
+      "esmt_relevance": 5,
+      "evidence_confidence": 5
+    },
+    "priority_score": 80.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 15.0,
+      "actionability": 16.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -229,
+    "days_to_window_end_as_of_2026_08_18": 135,
+    "sources": [
+      {
+        "source_id": "src_equis_2026_pdf",
+        "name": "EQUIS Standards and Criteria 2026",
+        "url": "https://www.efmdglobal.org/wp-content/uploads/EQUIS_Standards_and_Criteria.pdf",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_equis_2025_pdf",
+        "name": "EQUIS Standards and Criteria 2025",
+        "url": "https://www.efmdglobal.org/wp-content/uploads/EQUIS-Standards-and-Criteria-2025.pdf",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_equis_docs",
+        "name": "EQUIS Guides and Documents",
+        "url": "https://www.efmdglobal.org/accreditations-assessments/business-schools/equis/equis-guides-documents/",
+        "evidence_type": "primary_rule_index",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_mim_2026_publication",
+    "title": "FT Masters in Management 2026 publication is planned for 7 September",
+    "signal_type": "publication_window",
+    "programmes": [
+      "Master in Global Management"
+    ],
+    "ranking_or_standard": "Financial Times Masters in Management",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-09-07",
+    "event_date_end": "2026-09-07",
+    "date_precision": "exact_provisional",
+    "official_date_text": "7 September 2026; planned date is marked provisional by the FT calendar",
+    "factual_summary": "The Financial Times special-reports calendar plans the 2026 Masters in Management ranking for 7 September 2026.",
+    "verification_status": "verified_with_calendar_caveat",
+    "source_ids": [
+      "src_ft_calendar"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "This is a near-term communications and result-validation event for ESMT's management master's portfolio; it is not a submission deadline.",
+    "recommended_action": "Prepare a publication-day validation checklist, peer comparison template, and pre-approved communication scenarios. Reconfirm the FT date one week before publication.",
+    "proposed_owner": "Ranking Manager + Communications",
+    "proposed_due_date": "2026-08-31",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 4,
+      "actionability": 4,
+      "esmt_relevance": 4,
+      "evidence_confidence": 4
+    },
+    "priority_score": 80.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 20.0,
+      "actionability": 16.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 8.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 20,
+    "days_to_window_end_as_of_2026_08_18": 20,
+    "sources": [
+      {
+        "source_id": "src_ft_calendar",
+        "name": "Financial Times Special Reports Calendar",
+        "url": "https://commercial.ft.com/special-reports-calendar/",
+        "evidence_type": "official_schedule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_qs_mba_2026_shift",
+    "title": "ESMT's QS Global MBA rank moved from 78 to 84 while key German peers were broadly stable",
+    "signal_type": "competitive_shift",
+    "programmes": [
+      "Full-time MBA"
+    ],
+    "ranking_or_standard": "QS Global MBA Rankings 2026",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2025-09-01",
+    "event_date_end": "2025-09-30",
+    "date_precision": "publication_month_assumption",
+    "official_date_text": "2026 edition; workbook comparison uses the 2025 and 2026 result files",
+    "date_assumption": "September is used only as a cycle label because the seed export does not establish an exact publication day.",
+    "factual_summary": "In the supplied QS exports, ESMT moved from rank 78 and score 60.4 in 2025 to rank 84 and score 59.4 in 2026. Entrepreneurship and Alumni Outcomes fell 5.4 points and Employability fell 2.1, while ROI, Thought Leadership, and Diversity improved. Frankfurt remained 40, Mannheim moved 47 to 46, and WHU moved 55 to 57.",
+    "verification_status": "computed_from_official_exports",
+    "source_ids": [
+      "src_qs_workbook_2025",
+      "src_qs_workbook_2026",
+      "src_qs_mba_results_2026",
+      "src_qs_mba_methodology"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "The movement is not explained by a broad decline among the selected German peers. The most plausible analytical focus is the two falling components, but causality cannot be inferred from result files alone.",
+    "recommended_action": "Reconcile the submitted inputs and survey/outcomes evidence behind Employability and Entrepreneurship & Alumni Outcomes, then model feasible component scenarios using the published weights.",
+    "proposed_owner": "Ranking Manager + MBA Careers + Alumni Relations",
+    "proposed_due_date": "2026-09-30",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 3,
+      "actionability": 4,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 77.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 15.0,
+      "actionability": 16.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -351,
+    "days_to_window_end_as_of_2026_08_18": -322,
+    "sources": [
+      {
+        "source_id": "src_qs_workbook_2025",
+        "name": "2025 QS Global MBA and Business Masters Results Export",
+        "url": "https://www.topuniversities.com/mba-rankings",
+        "evidence_type": "primary_result_export",
+        "access_mode": "local_attachment"
+      },
+      {
+        "source_id": "src_qs_workbook_2026",
+        "name": "2026 QS Global MBA and Business Masters Results Export",
+        "url": "https://www.topuniversities.com/mba-rankings",
+        "evidence_type": "primary_result_export",
+        "access_mode": "local_attachment"
+      },
+      {
+        "source_id": "src_qs_mba_results_2026",
+        "name": "QS Global MBA Rankings 2026",
+        "url": "https://www.topuniversities.com/mba-rankings",
+        "evidence_type": "primary_result",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_qs_mba_methodology",
+        "name": "QS Global MBA Rankings Methodology",
+        "url": "https://www.topmba.com/mba-rankings/methodology",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_qs_mim_2026_shift",
+    "title": "ESMT's QS Management rank moved from 75 to 100 despite only a 0.9-point score decline",
+    "signal_type": "competitive_shift",
+    "programmes": [
+      "Master in Global Management"
+    ],
+    "ranking_or_standard": "QS Business Master's Rankings 2026: Management",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2025-09-01",
+    "event_date_end": "2025-09-30",
+    "date_precision": "publication_month_assumption",
+    "official_date_text": "2026 edition; workbook comparison uses the 2025 and 2026 result files",
+    "date_assumption": "September is used only as a cycle label because the seed export does not establish an exact publication day.",
+    "factual_summary": "In the supplied QS exports, ESMT moved from rank 75 and score 52.0 in 2025 to rank 100 and score 51.1 in 2026. Value for Money fell 4.6 points and Diversity fell 3.1, while Thought Leadership rose 1.8 and Employability rose 0.2. Several selected German peers improved or fell less sharply.",
+    "verification_status": "computed_from_official_exports",
+    "source_ids": [
+      "src_qs_workbook_2025",
+      "src_qs_workbook_2026",
+      "src_qs_mim_results_2026"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "A 25-place rank movement with a 0.9-point score decline suggests cohort density and competitor movement matter. Treating the rank change alone as a performance collapse would be analytically weak.",
+    "recommended_action": "Analyse Value for Money inputs, score density around ESMT, new entrants, and peer changes; present score and rank side by side in management reporting.",
+    "proposed_owner": "Ranking Manager + Masters Team + Finance/Careers data owners",
+    "proposed_due_date": "2026-09-30",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 3,
+      "actionability": 4,
+      "esmt_relevance": 4,
+      "evidence_confidence": 5
+    },
+    "priority_score": 77.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 15.0,
+      "actionability": 16.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -351,
+    "days_to_window_end_as_of_2026_08_18": -322,
+    "sources": [
+      {
+        "source_id": "src_qs_workbook_2025",
+        "name": "2025 QS Global MBA and Business Masters Results Export",
+        "url": "https://www.topuniversities.com/mba-rankings",
+        "evidence_type": "primary_result_export",
+        "access_mode": "local_attachment"
+      },
+      {
+        "source_id": "src_qs_workbook_2026",
+        "name": "2026 QS Global MBA and Business Masters Results Export",
+        "url": "https://www.topuniversities.com/mba-rankings",
+        "evidence_type": "primary_result_export",
+        "access_mode": "local_attachment"
+      },
+      {
+        "source_id": "src_qs_mim_results_2026",
+        "name": "QS Business Master's Rankings 2026: Management",
+        "url": "https://www.topuniversities.com/business-masters-rankings/management",
+        "evidence_type": "primary_result",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_emba_2026_publication",
+    "title": "FT Executive MBA 2026 publication is planned for 12 October",
+    "signal_type": "publication_window",
+    "programmes": [
+      "Executive MBA"
+    ],
+    "ranking_or_standard": "Financial Times Executive MBA",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-10-12",
+    "event_date_end": "2026-10-12",
+    "date_precision": "exact_provisional",
+    "official_date_text": "12 October 2026; planned date is marked provisional by the FT calendar",
+    "factual_summary": "The Financial Times special-reports calendar plans the 2026 Executive MBA ranking for 12 October 2026.",
+    "verification_status": "verified_with_calendar_caveat",
+    "source_ids": [
+      "src_ft_calendar"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "The event is relevant to result validation and to correcting the current year-label inconsistency on ESMT's central ranking page.",
+    "recommended_action": "Resolve the existing 2025/2026 label mismatch before the new cycle, then prepare an October validation and communications checklist.",
+    "proposed_owner": "Ranking Manager + Executive MBA Team + Communications",
+    "proposed_due_date": "2026-10-05",
+    "status": "New",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 3,
+      "actionability": 4,
+      "esmt_relevance": 4,
+      "evidence_confidence": 4
+    },
+    "priority_score": 75.0,
+    "priority_band": "Act now",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 15.0,
+      "actionability": 16.0,
+      "esmt_relevance": 12.0,
+      "evidence_confidence": 8.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 55,
+    "days_to_window_end_as_of_2026_08_18": 55,
+    "sources": [
+      {
+        "source_id": "src_ft_calendar",
+        "name": "Financial Times Special Reports Calendar",
+        "url": "https://commercial.ft.com/special-reports-calendar/",
+        "evidence_type": "official_schedule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_online_mba_2026_result",
+    "title": "ESMT reports Germany's top position in the FT Online MBA 2026 ranking",
+    "signal_type": "ranking_result",
+    "programmes": [
+      "Part-time Blended MBA"
+    ],
+    "ranking_or_standard": "Financial Times Online MBA 2026",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-03-01",
+    "event_date_end": "2026-03-31",
+    "date_precision": "month_not_verified_in_seed",
+    "official_date_text": "2026 edition; exact day not asserted in this seed signal",
+    "factual_summary": "ESMT's official degree-ranking page describes the Part-time MBA as first in Germany in the FT Online MBA 2026 ranking.",
+    "verification_status": "verified_school_claim_requires_publisher_archive",
+    "source_ids": [
+      "src_esmt_degree_rankings",
+      "src_ft_methodology"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "The claim is strategically useful but is not fully evidenced in the prototype because the publisher result row has not been archived.",
+    "recommended_action": "Archive the FT result row and approved wording, then align the public programme and central ranking pages to the same record.",
+    "proposed_owner": "Ranking Manager + Part-time MBA Team + Communications",
+    "proposed_due_date": "2026-09-15",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 2,
+      "actionability": 4,
+      "esmt_relevance": 5,
+      "evidence_confidence": 4
+    },
+    "priority_score": 73.0,
+    "priority_band": "Plan",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 10.0,
+      "actionability": 16.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 8.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -170,
+    "days_to_window_end_as_of_2026_08_18": -140,
+    "sources": [
+      {
+        "source_id": "src_esmt_degree_rankings",
+        "name": "ESMT Degree Rankings",
+        "url": "https://esmt.berlin/degrees/degree-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_ft_methodology",
+        "name": "Financial Times Rankings Methodology Hub",
+        "url": "https://rankings.ft.com/methodology",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_execed_2026_result",
+    "title": "ESMT reports top-10 positions in both FT Executive Education 2026 tables",
+    "signal_type": "ranking_result",
+    "programmes": [
+      "Executive Education"
+    ],
+    "ranking_or_standard": "Financial Times Executive Education 2026",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-05-01",
+    "event_date_end": "2026-05-31",
+    "date_precision": "month_not_verified_in_seed",
+    "official_date_text": "2026 edition; exact day not asserted in this seed signal",
+    "factual_summary": "ESMT's official ranking pages report rank 5 for customised executive education and rank 9 for open-enrolment executive education in the FT 2026 results; the open result is described as first in Germany.",
+    "verification_status": "verified_school_claim_requires_publisher_archive",
+    "source_ids": [
+      "src_esmt_degree_rankings",
+      "src_esmt_accreditation_rankings",
+      "src_ft_methodology"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "These are strong public claims, but the prototype has not archived the corresponding publisher result rows. Production should not rely on the school page alone.",
+    "recommended_action": "Attach the FT result rows and approved claim wording to the evidence register, then verify consistency across Executive Education pages and campaign materials.",
+    "proposed_owner": "Ranking Manager + Executive Education + Communications",
+    "proposed_due_date": "2026-09-15",
+    "status": "In review",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 2,
+      "actionability": 4,
+      "esmt_relevance": 5,
+      "evidence_confidence": 4
+    },
+    "priority_score": 73.0,
+    "priority_band": "Plan",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 10.0,
+      "actionability": 16.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 8.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -109,
+    "days_to_window_end_as_of_2026_08_18": -79,
+    "sources": [
+      {
+        "source_id": "src_esmt_degree_rankings",
+        "name": "ESMT Degree Rankings",
+        "url": "https://esmt.berlin/degrees/degree-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_esmt_accreditation_rankings",
+        "name": "ESMT Accreditation and Rankings",
+        "url": "https://esmt.berlin/about/accreditation-and-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_ft_methodology",
+        "name": "Financial Times Rankings Methodology Hub",
+        "url": "https://rankings.ft.com/methodology",
+        "evidence_type": "primary_rule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_mba_2026_result",
+    "title": "ESMT is 79th globally and second in Germany in the FT MBA 2026 ranking",
+    "signal_type": "ranking_result",
+    "programmes": [
+      "Full-time MBA"
+    ],
+    "ranking_or_standard": "Financial Times MBA 2026",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-02-16",
+    "event_date_end": "2026-02-16",
+    "date_precision": "exact",
+    "official_date_text": "Published 16 February 2026",
+    "factual_summary": "The FT MBA 2026 result places ESMT at rank 79. ESMT's degree-ranking page describes this as second in Germany.",
+    "verification_status": "verified",
+    "source_ids": [
+      "src_ft_mba_2026",
+      "src_esmt_degree_rankings"
+    ],
+    "independent_confirmation_count": 2,
+    "esmt_interpretation": "The result is already public. The remaining operational value is claim consistency, peer/component analysis, and preserving a validated evidence record.",
+    "recommended_action": "Archive the validated result, rank context, publication date, approved claim wording, and source snapshot in the central claims register.",
+    "proposed_owner": "Ranking Manager + Communications",
+    "proposed_due_date": "2026-08-31",
+    "status": "Monitoring",
+    "score_inputs": {
+      "strategic_impact": 3,
+      "urgency": 2,
+      "actionability": 4,
+      "esmt_relevance": 5,
+      "evidence_confidence": 5
+    },
+    "priority_score": 69.0,
+    "priority_band": "Plan",
+    "score_contributions": {
+      "strategic_impact": 18.0,
+      "urgency": 10.0,
+      "actionability": 16.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -183,
+    "days_to_window_end_as_of_2026_08_18": -183,
+    "sources": [
+      {
+        "source_id": "src_ft_mba_2026",
+        "name": "Financial Times MBA 2026 Results",
+        "url": "https://rankings.ft.com/rankings/3006/mba-2026",
+        "evidence_type": "primary_result",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_esmt_degree_rankings",
+        "name": "ESMT Degree Rankings",
+        "url": "https://esmt.berlin/degrees/degree-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_ebs_2026_publication",
+    "title": "FT European Business Schools 2026 publication is planned for 7 December",
+    "signal_type": "publication_window",
+    "programmes": [
+      "Institution-wide"
+    ],
+    "ranking_or_standard": "Financial Times European Business Schools",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2026-12-07",
+    "event_date_end": "2026-12-07",
+    "date_precision": "exact_provisional",
+    "official_date_text": "7 December 2026; planned date is marked provisional by the FT calendar",
+    "factual_summary": "The Financial Times special-reports calendar plans the 2026 European Business Schools ranking for 7 December 2026.",
+    "verification_status": "verified_with_calendar_caveat",
+    "source_ids": [
+      "src_ft_calendar"
+    ],
+    "independent_confirmation_count": 1,
+    "esmt_interpretation": "This composite ranking can affect institution-level positioning and draws on performance across eligible FT programme rankings.",
+    "recommended_action": "Maintain an auditable component-results bridge and create a pre-release scenario model; reconfirm the provisional date in late November.",
+    "proposed_owner": "Ranking Manager",
+    "proposed_due_date": "2026-11-30",
+    "status": "Monitoring",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 2,
+      "actionability": 3,
+      "esmt_relevance": 5,
+      "evidence_confidence": 4
+    },
+    "priority_score": 69.0,
+    "priority_band": "Plan",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 10.0,
+      "actionability": 12.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 8.0
+    },
+    "days_to_window_start_as_of_2026_08_18": 111,
+    "days_to_window_end_as_of_2026_08_18": 111,
+    "sources": [
+      {
+        "source_id": "src_ft_calendar",
+        "name": "Financial Times Special Reports Calendar",
+        "url": "https://commercial.ft.com/special-reports-calendar/",
+        "evidence_type": "official_schedule",
+        "access_mode": "public_http"
+      }
+    ]
+  },
+  {
+    "signal_id": "sig_ft_ebs_2025_result",
+    "title": "ESMT is 12th in Europe and first in Germany in the FT European Business Schools 2025 ranking",
+    "signal_type": "ranking_result",
+    "programmes": [
+      "Institution-wide"
+    ],
+    "ranking_or_standard": "Financial Times European Business Schools 2025",
+    "observed_at": "2026-08-18",
+    "event_date_start": "2025-12-01",
+    "event_date_end": "2025-12-31",
+    "date_precision": "month_not_verified_in_seed",
+    "official_date_text": "2025 edition; exact day not asserted in this seed signal",
+    "factual_summary": "The supplied FT export and ESMT's ranking pages place ESMT at rank 12 in Europe and first in Germany in the 2025 European Business Schools ranking.",
+    "verification_status": "verified_from_export_and_school_claim",
+    "source_ids": [
+      "src_ft_ebs_2025_export",
+      "src_esmt_degree_rankings",
+      "src_esmt_accreditation_rankings"
+    ],
+    "independent_confirmation_count": 2,
+    "esmt_interpretation": "The result is a high-value institutional claim, but it should be linked to the correct cycle, ranking scope, and component evidence.",
+    "recommended_action": "Keep the claim in the structured register and document the component rankings feeding the composite result for management reporting.",
+    "proposed_owner": "Ranking Manager + Communications",
+    "proposed_due_date": "2026-09-30",
+    "status": "Monitoring",
+    "score_inputs": {
+      "strategic_impact": 4,
+      "urgency": 1,
+      "actionability": 3,
+      "esmt_relevance": 5,
+      "evidence_confidence": 5
+    },
+    "priority_score": 66.0,
+    "priority_band": "Plan",
+    "score_contributions": {
+      "strategic_impact": 24.0,
+      "urgency": 5.0,
+      "actionability": 12.0,
+      "esmt_relevance": 15.0,
+      "evidence_confidence": 10.0
+    },
+    "days_to_window_start_as_of_2026_08_18": -260,
+    "days_to_window_end_as_of_2026_08_18": -230,
+    "sources": [
+      {
+        "source_id": "src_ft_ebs_2025_export",
+        "name": "FT European Business School Rankings 2025 Export",
+        "url": "https://rankings.ft.com/business-education/european-business-school-rankings",
+        "evidence_type": "primary_result_export",
+        "access_mode": "local_attachment"
+      },
+      {
+        "source_id": "src_esmt_degree_rankings",
+        "name": "ESMT Degree Rankings",
+        "url": "https://esmt.berlin/degrees/degree-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      },
+      {
+        "source_id": "src_esmt_accreditation_rankings",
+        "name": "ESMT Accreditation and Rankings",
+        "url": "https://esmt.berlin/about/accreditation-and-rankings",
+        "evidence_type": "official_school_claim",
+        "access_mode": "public_http"
+      }
+    ]
+  }
+]
